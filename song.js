@@ -22,7 +22,7 @@ let songs = [
         name: 'Dreamin of you',
         path: 'music/Gangga - Dreamin of You.mp3',
         artist: 'Gangga - Album',
-        cover: 'image/Dreamin of you.png'
+        cover: 'image/Dreamin-of-you.png'
 
     },
 //     {
